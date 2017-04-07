@@ -1,4 +1,4 @@
-Programme de stéganographie : dissimuler un message dans une image.
+Programme de stéganographie : dissimuler un message dans une image / récupérer un message caché dans une image
 
 -1. Exécuter les 2 fichiers .sci
 
