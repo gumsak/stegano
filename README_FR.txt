@@ -6,5 +6,4 @@ Programme de stéganographie : dissimuler un message dans une image / récupére
 
     ! Par défaut une image 'output.png' contenant l'image d'origine ainsi que le texte sera créée.
 
--3. Pour récupérer un message caché : exécuter le fichier 'trouver_texte.sce', puis entrez le 
-    nom de l'image à traiter (ici ce sera par exemple 'output.png').
+-3. Pour récupérer un message caché : exécuter le fichier 'trouver_texte.sce', puis entrez le nom de l'image à traiter (ici ce sera par exemple 'output.png').
